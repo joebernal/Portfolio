@@ -6,7 +6,7 @@ This site showcases my work as a Computer Science student at California State Un
 
 ## 🔗 Live Site
 
-🌐 [joebernal.github.io/portfolio](https://joebernal.github.io/portfolio)
+🌐 [joebernal.github.io/Portfolio](https://joebernal.github.io/Portfolio/)
 
 ---
 
